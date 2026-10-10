@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Microphone head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 c-4.42,0 -8,3.58 -8,8 v12 c0,4.42 3.58,8 8,8 s8,-3.58 8,-8 v-12 c0,-4.42 -3.58,-8 -8,-8 z" />
+    <!-- Microphone cradle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M40,50 c0,7.73 6.27,14 14,14 s14,-6.27 14,-14" />
+    <!-- Microphone stand and base -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M54,64 v8 M44,72 h20" />
+    <!-- Soundwaves left -->
+    <path
+        android:strokeColor="#EEFFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M33,45 c-2,3.5 -2,10.5 0,14" />
+    <path
+        android:strokeColor="#BBFFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M27,41 c-4,5.5 -4,18.5 0,22" />
+    <!-- Soundwaves right -->
+    <path
+        android:strokeColor="#EEFFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M75,45 c2,3.5 2,10.5 0,14" />
+    <path
+        android:strokeColor="#BBFFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M81,41 c4,5.5 4,18.5 0,22" />
+    <!-- AI Sparkle top right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,28 l1.2,3.2 l3.2,1.2 l-3.2,1.2 l-1.2,3.2 l-1.2,-3.2 l-3.2,-1.2 l3.2,-1.2 z" />
+</vector>

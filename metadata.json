@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI",
+  "description": "Smart native Android voice assistant powered by Gemini with multilingual support, wake word, YouTube playback, and device automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
